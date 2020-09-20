@@ -8,11 +8,11 @@
 
 ![Waveform](/Combinational%20Logic%20Circuits/half_adder.png)
 
-## Full Adder
+### Full Adder
 
-- [Full Adder](/Combinational%20Logic%20Circuits/half_adder.v): This full adder takes 3-bits for the input (A, B and carry in) and outputs a 2-bit Sum and its corresponding Carry Out. The Sum will be the lowest value output and the Carry Out is the highest value output as well as where other full adders could be joined together.
+- [Full Adder](/Combinational%20Logic%20Circuits/full_adder.v): This full adder takes 3-bits for the input (A, B and carry in) and outputs a 2-bit Sum and its corresponding Carry Out. The Sum will be the lowest value output and the Carry Out is the highest value output as well as where other full adders could be joined together.
 
-## Waveform
+#### Waveform
 
 ![Waveform](/Combinational%20Logic%20Circuits/full_adder.png)
 
