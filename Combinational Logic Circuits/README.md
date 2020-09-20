@@ -1,10 +1,10 @@
 # Combinational Logic Circuits
 
-## Half Adder
+### Half Adder
 
 - [Half Adder](/Combinational%20Logic%20Circuits/half_adder.v): This half adder adds two 1-bit binary numbers and outputs the sum of the input and its corresponding carry.
 
-### Waveform
+#### Waveform
 
 ![Waveform](/Combinational%20Logic%20Circuits/half_adder.png)
 
