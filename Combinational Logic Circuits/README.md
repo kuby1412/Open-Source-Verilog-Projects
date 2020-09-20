@@ -2,7 +2,7 @@
 
 ## Projects
 
-- [Half Adder](Combinational%20Logic%20Circuits/full_adder.v): This half adder adds two 1-bit binary numbers and outputs the sum of the input and its corresponding carry.
+- [Half Adder](/Combinational%20Logic%20Circuits/full_adder.v): This half adder adds two 1-bit binary numbers and outputs the sum of the input and its corresponding carry.
 
 - [Full Adder](/Project%202%20–%20Combinational%20Logic/full_adder): This full adder takes 3-bits for the input (A, B and carry in) and outputs a 2-bit Sum and its corresponding Carry Out. The Sum will be the lowest value output and the Carry Out is the highest value output as well as where other full adders could be joined together.
 
